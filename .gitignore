@@ -1,0 +1,4 @@
+build_win32
+build_win64
+cmake-build*
+.idea
